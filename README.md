@@ -6,7 +6,7 @@ ITPM Project - Book Store Management  Web Application
 ######                   ReactJs, HTML, CSS, Bootstrap
 
 ####                   Backend  - 
-######                   RESTful web services: NodeJS, ExpressJS (Framework)
+######                   NodeJS, ExpressJS (Framework)
 ######                   Database - MongoDB
 
 
